@@ -63,11 +63,9 @@ MODEL GRAPH
 DESIGN:
 
 Inverting amplifier:
+![WhatsApp Image 2025-12-03 at 20 17 26_28669bc0](https://github.com/user-attachments/assets/3b85d295-ff42-415d-b3ea-4814dc331e4f)
 
-A = -Rf/R1
-Take  A = 10
-Rf =10 R1
-Choose R1 = 1kΩ, Rf=10kΩ
+
 
 PROCEDURE:
 Inverting amplifier:
@@ -100,7 +98,7 @@ If the signal is applied to the non-inverting input terminal without inversion, 
 Here, the output is fed back to the inverting terminal, and **no phase shift** occurs.
 
 
-ACL = 1 + RF/R1
+![WhatsApp Image 2025-12-03 at 20 16 43_bc9ff78a](https://github.com/user-attachments/assets/1ecaf7aa-21b7-4062-ac4d-5b2a8a7c88e3)
 
 
 ---
@@ -161,12 +159,8 @@ A = Vo/{V2 - V1} = -Rf/R1
 
 ### **Differential Amplifier**
 
-AV = Vo/{V1 - V2} = -Rf/R1
+![WhatsApp Image 2025-12-03 at 20 13 54_5e8afff1](https://github.com/user-attachments/assets/437cd62a-2050-4e1f-baff-12aaa1d75d70)
 
-
-Take  A = 10 
-⇒  Rf = 10R1   
-Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ---
 
@@ -222,6 +216,7 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 ![WhatsApp Image 2025-11-23 at 14 05 01_5f2cfaed](https://github.com/user-attachments/assets/2600d047-d064-4e63-b2f8-12ed9a5f33f7)
+![WhatsApp Image 2025-12-03 at 20 11 54_78a0ae6f](https://github.com/user-attachments/assets/cb52f63a-c69b-4183-8b27-13f11d356e5f)
 
 
 ---
