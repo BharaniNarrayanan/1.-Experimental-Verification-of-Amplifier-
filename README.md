@@ -158,8 +158,8 @@ A = Vo/{V2 - V1} = -Rf/R1
 
 
 ### **Differential Amplifier**
+![WhatsApp Image 2025-12-03 at 20 47 30_ea576260](https://github.com/user-attachments/assets/270368cf-d12e-4401-9a2d-bdfff7fe9880)
 
-![WhatsApp Image 2025-12-03 at 20 13 54_5e8afff1](https://github.com/user-attachments/assets/437cd62a-2050-4e1f-baff-12aaa1d75d70)
 
 
 ---
