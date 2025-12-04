@@ -62,6 +62,9 @@ MODEL GRAPH
 
 DESIGN:
 
+![WhatsApp Image 2025-12-04 at 10 53 08_9ba1b2ef](https://github.com/user-attachments/assets/c86c3f8a-dd13-4b06-af53-73dc8728b927)
+
+
 Inverting amplifier:
 ![WhatsApp Image 2025-12-03 at 20 17 26_28669bc0](https://github.com/user-attachments/assets/3b85d295-ff42-415d-b3ea-4814dc331e4f)
 
@@ -155,6 +158,7 @@ A = Vo/{V2 - V1} = -Rf/R1
 ---
 
 ## DESIGN
+![WhatsApp Image 2025-12-04 at 10 51 53_db473620](https://github.com/user-attachments/assets/9a6f9bbc-67ca-4921-bb91-fc9ad1086c48)
 
 
 ### **Differential Amplifier**
